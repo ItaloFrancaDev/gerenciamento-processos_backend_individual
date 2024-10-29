@@ -30,4 +30,4 @@ O projeto **Gerenciamento de Processos** é uma aplicação desenvolvida para fa
 ### 1. Clonar o Repositório
 
 ```bash
-git clone https://github.com/seuusuario/gerenciamento-processos.git
+git clone https://github.com/ItaloFrancaDev/gerenciamento-processos_backend_individual.git
